@@ -8,7 +8,7 @@
 
 #include <IRremote.h>
 
-int RECV_PIN = 5;
+int RECV_PIN = 6;
 
 IRrecv irrecv(RECV_PIN);
 

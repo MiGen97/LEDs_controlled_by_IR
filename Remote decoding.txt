@@ -1,0 +1,13 @@
+Here are the values for buttons on my remote (for a proper decoding use IR_receiver.ino and the serial communication from Arduino to PC):
+
+buttons         code
+    0               807F9A65
+    1               807F4AB5
+    2               807F8A75
+    3               807F0AF5
+    4               807F6A95
+    5               807F6897
+    6               807FA857
+    7               807F6A95
+    8               807FAA55
+    9               807F2AD5
